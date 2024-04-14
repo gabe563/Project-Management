@@ -1,4 +1,4 @@
-import Tasks from "./Tasks";
+import Tasks from "./TaskComponents/Tasks";
 
 export default function CurrentProject({
   project,

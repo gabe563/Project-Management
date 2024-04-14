@@ -1,4 +1,4 @@
-import AddProject from "./components/AddProject";
+import AddProject from "./components/NewProjectComponents/AddProject";
 import CurrentProject from "./components/CurrentProject";
 import NoProject from "./components/NoProject";
 import Projects from "./components/Projects";

@@ -1,4 +1,4 @@
-import AddProject from "./AddProject";
+import AddProject from "./NewProjectComponents/AddProject";
 
 export default function Projects({
   showMenu,
